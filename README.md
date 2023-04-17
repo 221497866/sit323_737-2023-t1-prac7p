@@ -1,1 +1,4 @@
-Please see PDF provided on OnTrack, for images/details (:
+# Explanation
+
+Please see the PDF below, for images/explanation, of what was performed (: <br>
+https://github.com/221497866/sit323_737-2023-t1-prac7p/blob/master/SIT323%20-%20Task%207.1P%20-%20Details.pdf
