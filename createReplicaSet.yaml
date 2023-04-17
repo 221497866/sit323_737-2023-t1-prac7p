@@ -21,3 +21,7 @@ spec:
         image: alamfaisal654/node-web-app:latest
         ports:
         - containerPort: 8080
+
+
+
+        
